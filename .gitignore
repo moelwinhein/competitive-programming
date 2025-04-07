@@ -1,3 +1,6 @@
-# OS generated files #
-######################
+# OS
 .DS_Store
+
+# Intellij
+*/.idea
+*/cmake-build*
